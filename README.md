@@ -36,20 +36,26 @@
 ## 4. First Order System
 
     a. Transfer Function Step Response
-   
+   ![Nuas_JIA_STEP from MATLAB_No4 fig](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159036368/447636f6-4184-42e8-8a8b-975e1eefb461)
+
     b. Block Diagram
-   
+   ![Nuas_JIA_BLOCK_DIAGRAM_No_4 AND 5 fig](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159036368/f592af4e-8b4b-4977-bb1b-40f6c99bd5ef)
+
     c. Simulink Step Response
-   
+   ![Nuas_JIA_STEP from SIMULINK_No4 fig](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159036368/8848e3e7-65b3-48d6-8aef-fcd7e652a761)
+
 ## 5. Resonant System
    
     a. Transfer Function Step Response
-   
+   ![Nuas_JIA_STEP from MATLAB_No5 fig](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159036368/32f5f4bf-a6b8-4b79-aa6c-18eeeebf4402)
+
     b. Block Diagram
-   
+   ![Nuas_JIA_BLOCK_DIAGRAM_No_4 AND 5 fig](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159036368/4dca4ed3-3e1b-4312-b0ed-4f488bbd92db)
+
     c. Simulink Step Response
    
 ## 6. Electrical Filter with Multiple Poles
+![Nuas_JIA_STEP from SIMULINK_No5 fig](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159036368/85114553-12fb-481f-addb-627835bb9301)
 
     a. Transfer Function Step Response
    
