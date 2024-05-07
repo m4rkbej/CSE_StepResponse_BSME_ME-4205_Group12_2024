@@ -1,11 +1,16 @@
-# CSE_StepResponse_BSME_ME-4205_Group12_2024
+![AGBAY_KZM_BlockDiagram_No8](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159086526/31e8fa0a-c9e3-4b81-a6c9-fdc112e7578c)# CSE_StepResponse_BSME_ME-4205_Group12_2024
 ## 1. Second Order Underdamped System
 
     a. Transfer Function Step Response
-   
+    
+![AGBAY_KZM_StepResponse_No1](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159086526/875e834f-ec72-4d65-83d2-d56732303087)
+
     b. Block Diagram
-   
+![AGBAY_KZM_BlockDiagram_No1](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159086526/763d5f71-9697-48c7-986f-77f817dee34e)
+
     c. Simulink Step Response
+![AGBAY_KZM_Simulink_No1](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159086526/963eef08-4723-48aa-89fa-750c3ab58733)
+
    
 ## 2. Second Order Overdamped  System
 
@@ -69,8 +74,12 @@
 ## 8. Nonlinear System Approximation
    
     a. Transfer Function Step Response
-   
+![AGBAY_KZM_StepResponse_No8](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159086526/42c9708b-6793-4cd7-a6fb-6bb6a7961c52)
+
     b. Block Diagram
-   
+![AGBAY_KZM_BlockDiagram_No8](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159086526/17701634-4701-4830-b61a-a8d0bad80f65)
+
     c. Simulink Step Response
+![AGBAY_KZM_Simulink_No8](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159086526/d3b86d36-446e-4557-8190-7e71741fdb82)
+
    
