@@ -28,11 +28,14 @@
 
 ## 3. Second Order Critically Damped System
     a. Transfer Function Step Response
-   
+   ![BEJASA_MKI_STEPRESPONSE_NO3](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159093828/9095a5bf-6ef9-476f-963d-5d5a2623dba6)
+
     b. Block Diagram
-   
+   ![BEJASA_MKI_BLOCK_DIAGRAM_NO3](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159093828/4e71b758-2985-4573-b996-a1a85381f686)
+
     c. Simulink Step Response
- 
+ ![BEJASA_MKI_SIMULINK_NO3](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159093828/ba151079-d1a3-4243-a8a5-7486d76f2977)
+
 ## 4. First Order System
 
     a. Transfer Function Step Response
@@ -58,11 +61,16 @@
 ![Nuas_JIA_STEP from SIMULINK_No5 fig](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159036368/85114553-12fb-481f-addb-627835bb9301)
 
     a. Transfer Function Step Response
-   
+   ![BEJASA_MKI_STEPRESPONSE_NO6](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159093828/e519da6e-2269-476d-9cc3-01b078cc98ba)
+
     b. Block Diagram
-   
+![BEJASA_MKI_BLOCK_DIAGRAM_NO6](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159093828/725192a6-302c-49e1-8c08-6cc86dbc801a)
+
+
     c. Simulink Step Response
-   
+ ![BEJASA_MKI_SIMULINK_NO6](https://github.com/m4rkbej/CSE_StepResponse_BSME_ME-4205_Group12_2024/assets/159093828/2172f5a6-fc7a-42cc-9ab4-cfd8e3e9e19b)
+
+
 ## 7. Plant with Time Delay
 
     a. Transfer Function Step Response
